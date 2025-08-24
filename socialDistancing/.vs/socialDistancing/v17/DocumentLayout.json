@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding projects\\olimpiada\\socialDistancing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D51D398-7491-4B51-BE1D-B1FA4E626026}|socialDistancing.vcxproj|D:\\coding projects\\olimpiada\\socialDistancing\\socialDistancing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D51D398-7491-4B51-BE1D-B1FA4E626026}|socialDistancing.vcxproj|solutionrelative:socialDistancing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "socialDistancing.cpp",
+              "DocumentMoniker": "D:\\coding projects\\olimpiada\\socialDistancing\\socialDistancing.cpp",
+              "RelativeDocumentMoniker": "socialDistancing.cpp",
+              "ToolTip": "D:\\coding projects\\olimpiada\\socialDistancing\\socialDistancing.cpp",
+              "RelativeToolTip": "socialDistancing.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-08T18:04:07.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

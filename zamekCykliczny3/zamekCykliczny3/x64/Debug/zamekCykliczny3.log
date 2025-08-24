@@ -1,0 +1,3 @@
+﻿  zamekCykliczny3.cpp
+D:\coding projects\olimpiada\zamekCykliczny3\zamekCykliczny3.cpp(15,8): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+  zamekCykliczny3.vcxproj -> D:\coding projects\olimpiada\zamekCykliczny3\x64\Debug\zamekCykliczny3.exe

@@ -1,0 +1,3 @@
+﻿  szybkiePotegowanie.cpp
+D:\coding projects\olimpiada\szybkiePotegowanie\szybkiePotegowanie.cpp(6,27): warning C4244: "inicjowanie": konwersja z "double" do "__int64", możliwa utrata danych
+  szybkiePotegowanie.vcxproj -> D:\coding projects\olimpiada\szybkiePotegowanie\x64\Debug\szybkiePotegowanie.exe

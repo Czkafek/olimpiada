@@ -1,0 +1,3 @@
+﻿  oddDividor.cpp
+D:\coding projects\olimpiada\oddDividor\oddDividor.cpp(4,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  oddDividor.vcxproj -> D:\coding projects\olimpiada\oddDividor\x64\Debug\oddDividor.exe

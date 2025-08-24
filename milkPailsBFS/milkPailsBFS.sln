@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "milkPailsBFS", "milkPailsBFS.vcxproj", "{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}.Debug|x64.ActiveCfg = Debug|x64
+		{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}.Debug|x64.Build.0 = Debug|x64
+		{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}.Debug|x86.ActiveCfg = Debug|Win32
+		{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}.Debug|x86.Build.0 = Debug|Win32
+		{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}.Release|x64.ActiveCfg = Release|x64
+		{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}.Release|x64.Build.0 = Release|x64
+		{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}.Release|x86.ActiveCfg = Release|Win32
+		{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A3B92C0-CEED-4B44-85B8-DB1B125815C0}
+	EndGlobalSection
+EndGlobal

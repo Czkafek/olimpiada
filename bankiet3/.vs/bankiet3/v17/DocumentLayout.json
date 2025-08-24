@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding projects\\olimpiada\\bankiet3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB677F19-F4E5-43E4-8506-5A22A7E4F540}|bankiet3.vcxproj|D:\\coding projects\\olimpiada\\bankiet3\\bankiet3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB677F19-F4E5-43E4-8506-5A22A7E4F540}|bankiet3.vcxproj|solutionrelative:bankiet3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bankiet3.cpp",
+              "DocumentMoniker": "D:\\coding projects\\olimpiada\\bankiet3\\bankiet3.cpp",
+              "RelativeDocumentMoniker": "bankiet3.cpp",
+              "ToolTip": "D:\\coding projects\\olimpiada\\bankiet3\\bankiet3.cpp",
+              "RelativeToolTip": "bankiet3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-30T16:18:52.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding projects\\olimpiada\\milkPailsBFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}|milkPailsBFS.vcxproj|D:\\coding projects\\olimpiada\\milkPailsBFS\\milkPailsBFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39BC854D-11B6-4D0E-9A0A-B7A310BA7429}|milkPailsBFS.vcxproj|solutionrelative:milkPailsBFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "milkPailsBFS.cpp",
+              "DocumentMoniker": "D:\\coding projects\\olimpiada\\milkPailsBFS\\milkPailsBFS.cpp",
+              "RelativeDocumentMoniker": "milkPailsBFS.cpp",
+              "ToolTip": "D:\\coding projects\\olimpiada\\milkPailsBFS\\milkPailsBFS.cpp",
+              "RelativeToolTip": "milkPailsBFS.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-14T10:11:45.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  gielda.cpp
+D:\coding projects\olimpiada\gielda\gielda.cpp(4,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  gielda.vcxproj -> D:\coding projects\olimpiada\gielda\x64\Debug\gielda.exe
