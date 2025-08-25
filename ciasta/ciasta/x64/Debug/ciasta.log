@@ -1,0 +1,4 @@
+﻿  ciasta.cpp
+D:\coding projects\olimpiada\ciasta\ciasta.cpp(5,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\coding projects\olimpiada\ciasta\ciasta.cpp(6,21): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  ciasta.vcxproj -> D:\coding projects\olimpiada\ciasta\x64\Debug\ciasta.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding projects\\olimpiada\\ciasta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE89577-895B-48D2-AA4C-B68F84AEF9E2}|ciasta.vcxproj|D:\\coding projects\\olimpiada\\ciasta\\ciasta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BE89577-895B-48D2-AA4C-B68F84AEF9E2}|ciasta.vcxproj|solutionrelative:ciasta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ciasta.cpp",
+              "DocumentMoniker": "D:\\coding projects\\olimpiada\\ciasta\\ciasta.cpp",
+              "RelativeDocumentMoniker": "ciasta.cpp",
+              "ToolTip": "D:\\coding projects\\olimpiada\\ciasta\\ciasta.cpp",
+              "RelativeToolTip": "ciasta.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-25T09:38:17.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
