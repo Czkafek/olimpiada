@@ -1,0 +1,4 @@
+﻿  tablice2.cpp
+D:\coding projects\olimpiada\tablice2\tablice2.cpp(27,28): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\coding projects\olimpiada\tablice2\tablice2.cpp(28,28): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  tablice2.vcxproj -> D:\coding projects\olimpiada\tablice2\x64\Debug\tablice2.exe

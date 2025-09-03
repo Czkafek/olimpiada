@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding projects\\olimpiada\\tablice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5073ED0A-3036-4A06-9649-7866D5D6E429}|tablice2.vcxproj|D:\\coding projects\\olimpiada\\tablice2\\tablice2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5073ED0A-3036-4A06-9649-7866D5D6E429}|tablice2.vcxproj|solutionrelative:tablice2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tablice2.cpp",
+              "DocumentMoniker": "D:\\coding projects\\olimpiada\\tablice2\\tablice2.cpp",
+              "RelativeDocumentMoniker": "tablice2.cpp",
+              "ToolTip": "D:\\coding projects\\olimpiada\\tablice2\\tablice2.cpp",
+              "RelativeToolTip": "tablice2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-02T15:01:36.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
