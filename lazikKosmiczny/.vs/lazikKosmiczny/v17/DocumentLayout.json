@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding projects\\olimpiada\\lazikKosmiczny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1971175-561C-4B19-AC3E-9BAB3DF8809B}|lazikKosmiczny.vcxproj|D:\\coding projects\\olimpiada\\lazikKosmiczny\\lazikKosmiczny.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1971175-561C-4B19-AC3E-9BAB3DF8809B}|lazikKosmiczny.vcxproj|solutionrelative:lazikKosmiczny.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lazikKosmiczny.cpp",
+              "DocumentMoniker": "D:\\coding projects\\olimpiada\\lazikKosmiczny\\lazikKosmiczny.cpp",
+              "RelativeDocumentMoniker": "lazikKosmiczny.cpp",
+              "ToolTip": "D:\\coding projects\\olimpiada\\lazikKosmiczny\\lazikKosmiczny.cpp",
+              "RelativeToolTip": "lazikKosmiczny.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T11:40:19.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

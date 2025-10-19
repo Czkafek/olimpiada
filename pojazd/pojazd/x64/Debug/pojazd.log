@@ -1,0 +1,31 @@
+﻿  pojazd.cpp
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(5,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(45,13): warning C4244: "inicjowanie": konwersja z "_Ty1" do "int", możliwa utrata danych
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(45,13): warning C4244:         with
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(45,13): warning C4244:         [
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(45,13): warning C4244:             _Ty1=ll
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(45,13): warning C4244:         ]
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(46,13): warning C4244: "inicjowanie": konwersja z "_Ty1" do "int", możliwa utrata danych
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(46,13): warning C4244:         with
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(46,13): warning C4244:         [
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(46,13): warning C4244:             _Ty1=ll
+D:\coding projects\olimpiada\pojazd\pojazd.cpp(46,13): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,16): warning C4244: "inicjowanie": konwersja z "const _Ty1" do "_Ty1", możliwa utrata danych
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,16): warning C4244:             _Ty1=ll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,16): warning C4244:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,38): warning C4244: "inicjowanie": konwersja z "const _Ty2" do "_Ty2", możliwa utrata danych
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,38): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,38): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,38): warning C4244:             _Ty2=ll
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,38): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,38): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,38): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,38): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\utility(269,38): warning C4244:         ]
+  pojazd.vcxproj -> D:\coding projects\olimpiada\pojazd\x64\Debug\pojazd.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding projects\\olimpiada\\silowniaDlaPoczatkujacych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5914A1F0-29E4-40BB-AAB3-E021B6041202}|silowniaDlaPoczatkujacych.vcxproj|D:\\coding projects\\olimpiada\\silowniaDlaPoczatkujacych\\silowniaDlaPoczatkujacych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5914A1F0-29E4-40BB-AAB3-E021B6041202}|silowniaDlaPoczatkujacych.vcxproj|solutionrelative:silowniaDlaPoczatkujacych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "silowniaDlaPoczatkujacych.cpp",
+              "DocumentMoniker": "D:\\coding projects\\olimpiada\\silowniaDlaPoczatkujacych\\silowniaDlaPoczatkujacych.cpp",
+              "RelativeDocumentMoniker": "silowniaDlaPoczatkujacych.cpp",
+              "ToolTip": "D:\\coding projects\\olimpiada\\silowniaDlaPoczatkujacych\\silowniaDlaPoczatkujacych.cpp",
+              "RelativeToolTip": "silowniaDlaPoczatkujacych.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T11:32:25.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

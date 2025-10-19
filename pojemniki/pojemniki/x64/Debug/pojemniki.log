@@ -1,0 +1,7 @@
+﻿  pojemniki.cpp
+D:\coding projects\olimpiada\pojemniki\pojemniki.cpp(35,13): warning C4244: "inicjowanie": konwersja z "_Ty2" do "int", możliwa utrata danych
+D:\coding projects\olimpiada\pojemniki\pojemniki.cpp(35,13): warning C4244:         with
+D:\coding projects\olimpiada\pojemniki\pojemniki.cpp(35,13): warning C4244:         [
+D:\coding projects\olimpiada\pojemniki\pojemniki.cpp(35,13): warning C4244:             _Ty2=ll
+D:\coding projects\olimpiada\pojemniki\pojemniki.cpp(35,13): warning C4244:         ]
+  pojemniki.vcxproj -> D:\coding projects\olimpiada\pojemniki\x64\Debug\pojemniki.exe

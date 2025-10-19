@@ -1,0 +1,4 @@
+﻿  stacjeBenzynowe4.cpp
+D:\coding projects\olimpiada\stacjeBenzynowe4\stacjeBenzynowe4.cpp(5,26): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\coding projects\olimpiada\stacjeBenzynowe4\stacjeBenzynowe4.cpp(40,61): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+  stacjeBenzynowe4.vcxproj -> D:\coding projects\olimpiada\stacjeBenzynowe4\x64\Debug\stacjeBenzynowe4.exe

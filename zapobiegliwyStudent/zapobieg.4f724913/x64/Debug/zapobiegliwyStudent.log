@@ -1,0 +1,27 @@
+﻿  zapobiegliwyStudent.cpp
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(29,25): warning C4244: "argument": konwersja z "__int64" do "_Ty", możliwa utrata danych
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(29,25): warning C4244:         with
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(29,25): warning C4244:         [
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(29,25): warning C4244:             _Ty=int
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(29,25): warning C4244:         ]
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(43,23): warning C4244: "argument": konwersja z "__int64" do "_Ty", możliwa utrata danych
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(43,23): warning C4244:         with
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(43,23): warning C4244:         [
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(43,23): warning C4244:             _Ty=int
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(43,23): warning C4244:         ]
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(49,23): warning C4244: "argument": konwersja z "__int64" do "_Ty", możliwa utrata danych
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(49,23): warning C4244:         with
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(49,23): warning C4244:         [
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(49,23): warning C4244:             _Ty=int
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(49,23): warning C4244:         ]
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(55,23): warning C4244: "argument": konwersja z "__int64" do "_Ty", możliwa utrata danych
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(55,23): warning C4244:         with
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(55,23): warning C4244:         [
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(55,23): warning C4244:             _Ty=int
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(55,23): warning C4244:         ]
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(63,23): warning C4244: "argument": konwersja z "__int64" do "_Ty", możliwa utrata danych
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(63,23): warning C4244:         with
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(63,23): warning C4244:         [
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(63,23): warning C4244:             _Ty=int
+D:\coding projects\olimpiada\zapobiegliwyStudent\zapobiegliwyStudent.cpp(63,23): warning C4244:         ]
+  zapobiegliwyStudent.vcxproj -> D:\coding projects\olimpiada\zapobiegliwyStudent\x64\Debug\zapobiegliwyStudent.exe

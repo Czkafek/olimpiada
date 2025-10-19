@@ -1,0 +1,4 @@
+﻿  stacjeBenzynowe5.cpp
+D:\coding projects\olimpiada\stacjeBenzynowe5\stacjeBenzynowe5.cpp(5,26): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\coding projects\olimpiada\stacjeBenzynowe5\stacjeBenzynowe5.cpp(32,13): warning C4244: "inicjowanie": konwersja z "ll" do "int", możliwa utrata danych
+  stacjeBenzynowe5.vcxproj -> D:\coding projects\olimpiada\stacjeBenzynowe5\x64\Debug\stacjeBenzynowe5.exe
